@@ -16,28 +16,28 @@ Education
 
 Work experience
 ======
-* AWS AI Labs: Applied Scientist-II _(June 2020 - Present)_
+* **AWS AI Labs**: Applied Scientist-II _(June 2020 - Present)_
   * Topics: Sequential Decision Making Systems, Large Language Models, Time Series, State Space Models. 
 
-* Ericsson Research: Machine Learning Scientist _(June 2019 - May 2020)_
+* **Ericsson Research**: Machine Learning Scientist _(June 2019 - May 2020)_
   * Topics: Inverse Reinforcement Learning, Federated Learning, Networking Systems. 
 
-* UC Berkeley EECS: Graduate Student Researcher _(August 2018 - May 2020)_
+* **UC Berkeley EEC**: Graduate Student Researcher _(August 2018 - May 2020)_
   * Topics: Predictive Maintenance, Hidden Markov Models, Variational Inference. 
 
-* MIT Media Lab: Deep Learning Researcher _(August 2017 - March 2018)_
+* **MIT Media Lab**: Deep Learning Researcher _(August 2017 - March 2018)_
   * Topics: Real time 2D/3D Pose Estimation. 
 
-* Facebook, Connectivity Lab: Software Engineer _(June 2016 - March 2017)_
+* **Facebook, Connectivity Lab**: Software Engineer _(June 2016 - March 2017)_
   * Topics: Computer Vision and Deep Learning. 
 
-* Defence Research and Development Organization (DRDO), Ministry of Defence, India: Research Intern _(Nov 2015 - May 2016)_
+* **Defence Research and Development Organization (DRDO), Ministry of Defence, India:** Research Intern _(Nov 2015 - May 2016)_
   * Topics: Predictive Modeling for Sequential data (e.g., EEG, ECG, fMRI). 
 
-* Indian Institute of Management, Ahmedabad (IIM-A): Research Intern _(Jan 2015 - March 2015)_
+* **Indian Institute of Management, Ahmedabad (IIM-A):** Research Intern _(Jan 2015 - March 2015)_
   * Topics: Graph Theory, Peer-to-Peer File Sharing Networks. 
 
-* Indian Institute of Science, Bangalore (IISc): Research Fellow _(June 2014 - Oct 2014)_
+* **Indian Institute of Science, Bangalore (IISc):** Research Fellow _(June 2014 - Oct 2014)_
   * Topics: Graph Theory, Virality Prediction in Large Social Networks. 
 
 Research Interests
