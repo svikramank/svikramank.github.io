@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Applied Scientist at AWS AI Labs working at the intersection of Machine Learning and Systems. I study complex, real-world, partially-observable dynamical systems (a.k.a 'world models') in the context of decision making under uncertainty using offline reinforcement learning. My work primarily involves analyzing high dimensional sequential data (e.g., time series, system logs, etc) for various downstream tasks like forecasting, anomaly detection, causal discovery, inference, attribution, and decision making. 
+I am an Applied Scientist at [AWS AI Labs](https://www.amazon.science/) working at the intersection of Machine Learning and Systems. I study complex, real-world, partially-observable dynamical systems (a.k.a 'world models') in the context of decision making under uncertainty using offline reinforcement learning. My work primarily involves analyzing high dimensional sequential data (e.g., time series, system logs, etc) for various downstream tasks like forecasting, anomaly detection, causal discovery, inference, attribution, and decision making. 
 
-I currently lead the science efforts for Amazon's [Relational Database Service](https://aws.amazon.com/rds/) (RDS) team. Some of my recent work that's generally available includes [Amazon DevOps Guru for RDS](https://aws.amazon.com/devops-guru/features/devops-guru-for-rds/) which is an end-to-end performance monitoring service that automatically detects performance bottlenecks, identifies root causes, and recommends fixes without any human interaction, for Amazon RDS customers (both Aurora and RDS engines). (Press Coverage: [TechCrunch](https://techcrunch.com/2021/12/01/aws-launches-a-new-tool-for-diagnosing-and-fixing-database-issues-in-its-cloud/), [ZDNet](https://www.zdnet.com/article/aws-brings-more-automation-to-database-management/), [User Tweets](https://twitter.com/petrsoukup/status/1471052326655963136)). 
+I currently lead the science efforts for Amazon's [Relational Database Service](https://aws.amazon.com/rds/) (RDS) team with the vision of building fully-autonomous (a.k.a 'self-driven') database systems. Some of my publicly available recent work in that direction includes [Amazon DevOps Guru for RDS](https://aws.amazon.com/devops-guru/features/devops-guru-for-rds/) launched at re:Invent 2021 which is an end-to-end autonomous performance monitoring service that detects performance bottlenecks, identifies root causes, and recommends fixes without any human-in-the-loop for Amazon RDS customers (Aurora and RDS engines). (Press Coverage: [TechCrunch](https://techcrunch.com/2021/12/01/aws-launches-a-new-tool-for-diagnosing-and-fixing-database-issues-in-its-cloud/), [ZDNet](https://www.zdnet.com/article/aws-brings-more-automation-to-database-management/), [User Tweets](https://twitter.com/petrsoukup/status/1471052326655963136)). 
 
 
 Prior Work
@@ -23,5 +23,5 @@ Before that I was a software engineer at Facebook, part of the [Connectivity Lab
 
 Links
 ======
-To get in touch with me: (my first name) @berkeley.edu | [Linkedin](https://www.linkedin.com/in/vikramanksingh/) | [Google Scholar](https://scholar.google.com/citations?user=IRwawZcAAAAJ&hl=en)
+To get in touch with me: (my first name) @berkeley.edu
 

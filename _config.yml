@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Vikramank Singh"
   avatar           : "profile.png"
-  bio              : "Applied Scientist at AWS AI Labs"
+  bio              : "R"
   location         : "San Francisco, CA"
-  employer         : "AWS AI Labs"
+  # employer         : "AWS AI Labs"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IRwawZcAAAAJ&hl=en"
-  email            : "vikramank@berkeley.edu | vkramas@amazon.com"
+  # email            : "vikramank@berkeley.edu | vkramas@amazon.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/vikramanksingh/"
+  linkedin         : "vikramanksingh"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
