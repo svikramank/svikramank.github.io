@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vikramank Singh"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Vikramank Singh"
 description              : &description "This is my personal website"
