@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, University of Mumbai, 2012 (Focus: ML and Operations Research)
+* M.S. in Information Systems, University of California, Berkeley, 2018 (Focus: ML and Systems)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* AWS AI Labs: Applied Scientist-II _(June 2020 - Present)_
+  * Topics: Sequential Decision Making Systems, Large Language Models, Time Series, State Space Models. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Ericsson Research: Machine Learning Scientist _(June 2019 - May 2020)_
+  * Topics: Inverse Reinforcement Learning, Federated Learning, Networking Systems. 
+
+* UC Berkeley EECS: Graduate Student Researcher _(August 2018 - May 2020)_
+  * Topics: Predictive Maintenance, Hidden Markov Models, Variational Inference. 
+
+* MIT Media Lab: Deep Learning Researcher _(August 2017 - March 2018)_
+  * Topics: Real time 2D/3D Pose Estimation. 
+
+* Facebook, Connectivity Lab: Software Engineer _(June 2016 - March 2017)_
+  * Topics: Computer Vision and Deep Learning. 
+
+* Defence Research and Development Organization (DRDO), Ministry of Defence, India: Research Intern _(Nov 2015 - May 2016)_
+  * Topics: Predictive Modeling for Sequential data (e.g., EEG, ECG, fMRI). 
+
+* Indian Institute of Management, Ahmedabad (IIM-A): Research Intern _(Jan 2015 - March 2015)_
+  * Topics: Graph Theory, Peer-to-Peer File Sharing Networks. 
+
+* Indian Institute of Science, Bangalore (IISc): Research Fellow _(June 2014 - Oct 2014)_
+  * Topics: Graph Theory, Virality Prediction in Large Social Networks. 
+
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Grounding in Large Language Models (LLMs)
+* Sequential decision making under uncertainty
+* World models
+* Causal discovery, inference and attribution for outliers in streaming data
 
 Publications
 ======
@@ -54,6 +65,22 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership
 ======
-* Currently signed in to 43 different slack teams
+* [Ycenter.org](https://y-center.org/): Incubation Program Director _(June 2016 - Oct 2016)_
+  * Ycenter is a Global Experiential Learning, Innovation consulting and Design organization. 
+  * Designed a 8 weeks program for 40 upcoming entrepreneurs in India to mentor, develop and test their prototypes. 
+  * Brought in a panel of 5 VC investors to close seed and pre-seed rounds for those promising startup ideas. 
+
+
+* NoteMyBook: Co-founder and CEO _(Jan 2014 - Sep 2016)_
+  * notemybook.in is an online platform where students could buy and sell pre-owned engineering books.
+  * Formed a team of 100+ across 12 colleges of Mumbai.
+  * Raised seed funding and was offered multiple seed extensions.
+  * Got the title of ‘Startup of the Month’ by erudiomag.com
+  * IBM and HeadStart selected notemybook.in among Top 50 Tech Startups.
+  * Got featured in India’s largest running newspaper, Hindustan Times as TOP Young CEO. 
+
+
+
+

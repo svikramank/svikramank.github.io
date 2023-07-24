@@ -26,7 +26,7 @@ Outside of work
 ======
 I enjoy sharing my knowledge and experiences via talks, workshops, meetups, etc. Here are some recorded ones: [TEDx 2018](https://www.youtube.com/watch?v=xrPP13co1s8) | [Re:Work 2017](https://www.youtube.com/watch?v=m1QftHjKeEs) | [HostingCon Cloud Summit 2017](https://www.youtube.com/watch?v=8Rgijaw3llo&list=PLRP2eszjahA85vlE7iF_TgvTfF_yZQP8r&index=2) | [Coca-Cola Youth Speaker Forum 2016](https://www.youtube.com/watch?v=5G3n0qlZS5w) | [Data Natives India 2017](https://dataconomy.com/2017/10/16/data-natives-x-india-interview-vikramank-singh-facebook/). 
 
-I love solving real-world problems and have been an entrepreneur with successful exit in [e-commerce](https://www.youtube.com/watch?v=LqqgzenOc-0) sector in 2016. Related media coverage: [Top-10 Startups in India 2015](https://yourstory.com/2015/08/college-startups) and [Inc42 Magazine](https://inc42.com/buzz/funding-galore-12/) . 
+I love solving real-world problems and have been an entrepreneur with successful exit in [e-commerce](https://www.youtube.com/watch?v=LqqgzenOc-0) sector in 2016. Related media coverage: [Top-10 Startups in India 2015](https://yourstory.com/2015/08/college-startups), [Inc42 Magazine](https://inc42.com/buzz/funding-galore-12/) and [VCCircle](https://www.vccircle.com/online-second-hand-bookseller-notemybook-raises-seed-funding). 
 
 I enjoy playing [cicket](https://en.wikipedia.org/wiki/Cricket) and used to play professionally at national-level representing [Mumbai Cricket Association (MCA)](https://en.wikipedia.org/wiki/Mumbai_Cricket_Association) from 2010-15. 
 
