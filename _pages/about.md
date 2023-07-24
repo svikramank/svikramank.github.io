@@ -28,6 +28,8 @@ I enjoy sharing my knowledge and experiences via talks, workshops, meetups, etc.
 
 I love playing [cicket](https://en.wikipedia.org/wiki/Cricket) and use to play professionally at national-level representing [Mumbai Cricket Association (MCA)](https://en.wikipedia.org/wiki/Mumbai_Cricket_Association) from 2010-15. 
 
+I love solving real-world problems and have been an entrepreneur with successful exit in [e-commerce](https://www.youtube.com/watch?v=LqqgzenOc-0) sector. Related media coverage: [Top-10 Startups in India 2015](https://yourstory.com/2015/08/college-startups) | [Inc42 Magazine](https://inc42.com/buzz/funding-galore-12/). 
+
 Get in touch
 ======
 To get in touch with me: (my first name) @berkeley.edu
