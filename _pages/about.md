@@ -22,7 +22,7 @@ Prior to that I spent time working with [Dr. Ramesh Raskar](https://web.media.mi
 Before that I was a software engineer at Facebook, part of the [Connectivity Lab](https://about.fb.com/news/2014/03/announcing-the-connectivity-lab-at-facebook/), building deep learning algorithms to solve computer vision problems with [Dr. Ramesh Raskar](https://web.media.mit.edu/~raskar/). 
 
 
-Outside of research
+Outside of work
 ======
 I enjoy sharing my knowledge and experiences via talks, workshops, meetups, etc. Here are some recorded ones: [TEDx 2018](https://www.youtube.com/watch?v=xrPP13co1s8) | [Re:Work 2017](https://www.youtube.com/watch?v=m1QftHjKeEs) | [HostingCon Cloud Summit 2017](https://www.youtube.com/watch?v=8Rgijaw3llo&list=PLRP2eszjahA85vlE7iF_TgvTfF_yZQP8r&index=2) | [Coca-Cola Youth Speaker Forum 2016](https://www.youtube.com/watch?v=5G3n0qlZS5w) | [Data Natives India 2017](https://dataconomy.com/2017/10/16/data-natives-x-india-interview-vikramank-singh-facebook/). 
 
