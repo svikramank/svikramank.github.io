@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Vikramank Singh"
   avatar           : "profile.png"
-  bio              : "I am an Applied Scientist at AWS AI Labs working at the intersection of ML and Systems."
+  bio              : "Applied Scientist at AWS AI Labs"
   location         : "San Francisco, CA"
   employer         : "AWS AI Labs"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IRwawZcAAAAJ&hl=en"
   email            : "vikramank@berkeley.edu | vkramas@amazon.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
