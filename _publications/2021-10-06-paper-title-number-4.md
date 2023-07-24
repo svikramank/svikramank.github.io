@@ -1,7 +1,7 @@
 ---
 title: "PDQN - A Deep Reinforcement Learning Method for Planning with Long Delays: Optimization of Manufacturing Dispatching"
 collection: publications
-permalink: /publication/2022-12-02-paper-title-number-3
+permalink: /publication/2021-10-06-paper-title-number-4
 venue: 'OpenReview'
 ---
 
