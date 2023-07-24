@@ -1,8 +1,8 @@
 ---
 title: "FITNESS:(Fine Tune on New and Similar Samples) to detect anomalies in streams with drift and outliers"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-venue: 'International Conference on Machine Learning (ICML), 2022.'
+permalink: /publication/2022-12-02-paper-title-number-3
+venue: 'International Conference on Machine Learning (ICML)'
 ---
 
 _Abishek Sankararaman, Balakrishnan Narayanaswamy, **Vikramank Y Singh**, Zhao Song_

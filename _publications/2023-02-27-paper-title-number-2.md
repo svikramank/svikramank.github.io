@@ -1,7 +1,8 @@
 ---
 title: "Predict-and-Critic: Accelerated End-to-End Predictive Control for Cloud Computing through Reinforcement Learning"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-2
+permalink: /publication/2023-02-27-paper-title-number-2
+venue: 'Arxiv Pre-print'
 ---
 
 _Kaustubh Sridhar, **Vikramank Singh**, Balakrishnan Narayanaswamy, Abishek Sankararaman_

@@ -1,8 +1,8 @@
 ---
 title: "C-GATS: Conditional generation of anomalous time series"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-1
-venue: 'Neural Information Processing Systems (NeurIPS 2022), SyntheticData4ML Workshop.'
+permalink: /publication/2022-07-17-paper-title-number-1
+venue: 'Neural Information Processing Systems (NeurIPS), SyntheticData4ML Workshop'
 ---
 
 _**Vikramank Singh**, Abishek Sankararaman, Balakrishnan Murali Narayanaswamy, Zhao Song_
