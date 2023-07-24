@@ -21,7 +21,12 @@ Prior to that I spent time working with [Dr. Ramesh Raskar](https://web.media.mi
 
 Before that I was a software engineer at Facebook, part of the [Connectivity Lab](https://about.fb.com/news/2014/03/announcing-the-connectivity-lab-at-facebook/), building deep learning algorithms to solve computer vision problems with [Dr. Ramesh Raskar](https://web.media.mit.edu/~raskar/). 
 
-Links
+
+Outside Work
+======
+
+
+Get in touch
 ======
 To get in touch with me: (my first name) @berkeley.edu
 
