@@ -19,7 +19,7 @@ Before AWS, I was a graduate student at UC Berkeley advised by [Dr. Anil Aswani]
 
 Prior to that I spent time working with [Dr. Ramesh Raskar](https://web.media.mit.edu/~raskar/) and [Amy Robinson Sterling](https://www.amysterling.org/about) at MIT Media Lab on various problems in computer vision related to real-time 2D/3D pose estimation and image segmentation. (TEDx Talk: [Link](https://www.youtube.com/watch?v=xrPP13co1s8)). 
 
-Before that I was a software engineer at Facebook, part of the [Connectivity Lab](https://about.fb.com/news/2014/03/announcing-the-connectivity-lab-at-facebook/), building deep learning algorithms to solve computer vision problems with [Dr. Ramesh Raskar](https://web.media.mit.edu/~raskar/). 
+Before that I was a software engineer at Facebook, part of the [Connectivity Lab](https://about.fb.com/news/2014/03/announcing-the-connectivity-lab-at-facebook/), building deep learning algorithms to solve computer vision problems supervised by [Dr. Ramesh Raskar](https://web.media.mit.edu/~raskar/). 
 
 
 Outside of work
