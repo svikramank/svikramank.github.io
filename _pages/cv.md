@@ -21,7 +21,7 @@ Work experience
 * **Ericsson Research**: Machine Learning Scientist _(June 2019 - May 2020)_
   * Topics: Inverse Reinforcement Learning, Federated Learning, Networking Systems. 
 
-* **UC Berkeley EECS**: Graduate Student Researcher _(August 2018 - May 2020)_
+* **UC Berkeley IEOR**: Graduate Student Researcher _(August 2018 - May 2020)_
   * Topics: Predictive Maintenance, Hidden Markov Models, Variational Inference. 
 
 * **MIT Media Lab**: Deep Learning Researcher _(August 2017 - March 2018)_
