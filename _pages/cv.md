@@ -21,7 +21,7 @@ Work experience
 * **Ericsson Research**: Machine Learning Scientist _(June 2019 - May 2020)_
   * Topics: Inverse Reinforcement Learning, Federated Learning, Networking Systems. 
 
-* **UC Berkeley EEC**: Graduate Student Researcher _(August 2018 - May 2020)_
+* **UC Berkeley EECS**: Graduate Student Researcher _(August 2018 - May 2020)_
   * Topics: Predictive Maintenance, Hidden Markov Models, Variational Inference. 
 
 * **MIT Media Lab**: Deep Learning Researcher _(August 2017 - March 2018)_
@@ -72,7 +72,7 @@ Leadership
   * Brought in a panel of 5 VC investors to close seed and pre-seed rounds for those promising startup ideas. 
 
 
-* NoteMyBook: Co-founder and CEO _(Jan 2014 - Sep 2016)_
+* [NoteMyBook](https://www.vccircle.com/online-second-hand-bookseller-notemybook-raises-seed-funding): Co-founder and CEO _(Jan 2014 - Sep 2016)_
   * notemybook.in is an online platform where students could buy and sell pre-owned engineering books.
   * Formed a team of 100+ across 12 colleges of Mumbai.
   * Raised seed funding and was offered multiple seed extensions.
