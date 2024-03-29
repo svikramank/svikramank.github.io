@@ -15,7 +15,10 @@ Education
 
 Work experience
 ======
-* **AWS AI Labs**: Applied Scientist-II _(June 2020 - Present)_
+* **AWS Learned Systems Group (LSG)**: Senior Applied Scientist _(Jan 2024 - Present)_
+  * Topics: Sequential Decision Making Systems, Large Language Models, Time Series, State Space Models.
+
+* **AWS AI Labs**: Applied Scientist-II _(June 2020 - Dec 2023)_
   * Topics: Sequential Decision Making Systems, Large Language Models, Time Series, State Space Models. 
 
 * **Ericsson Research**: Machine Learning Scientist _(June 2019 - May 2020)_
