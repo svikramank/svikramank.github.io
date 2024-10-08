@@ -34,5 +34,5 @@ I enjoy playing [cicket](https://en.wikipedia.org/wiki/Cricket) and used to play
 
 Get in touch
 ======
-Reach out via email: (my first name) @berkeley.edu
+Reach out via email: vikfam21@gmail.com
 
