@@ -2,7 +2,7 @@
 title: "US12130788B1: Assisted Database Anomaly Mitigation"
 collection: publications
 permalink: /publication/2024-10-29-patent-vista
-venue: 'United States Patent Office, Granted: Oct 29, 2024'
+venue: 'United States Patent And Trademark Office, Granted: Oct 29, 2024'
 ---
 
 _**Vikramank Singh**, Zhao Song, Balakrishnan Narayanaswamy, Maxym Kharchenko, Jeremiah Wilton, Vijay Joshi, Josh Oberwetter, Kyle Hailey_
