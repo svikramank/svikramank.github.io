@@ -61,12 +61,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Leadership
 ======
 * [Ycenter.org](https://y-center.org/): Incubation Program Director _(June 2016 - Oct 2016)_
