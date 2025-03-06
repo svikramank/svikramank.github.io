@@ -1,0 +1,18 @@
+---
+title: "Robust Online Inference Using Adaptive Model Switching"
+collection: publications
+permalink: /publication/2024-09-26-vista
+venue: 'International Conference on Learning Representations (ICLR) 2025, MCDC Workshop'
+---
+
+_Kalpan Mukherjee, **Vikramank Singh**, Abishek Sankararaman, Murali Narayanaswamy, Tim Kraska_
+
+It is well known that Large language models (LLMs) have good zero-shot and few-shot performance which makes them a promising candidate for inference
+when no or few training samples are available. However, when there is abundant task data, small custom trained models perform as well or are superior in
+performance to pre-trained LLMs, even after accounting for in-context examples. Further, smaller models are far cheaper and easier to maintain and serve for online
+traffic. This paper studies algorithms to optimally switch between such models for online inference. In the case when inference traffic is stationary, it makes sense
+to start with LLMs during the cold-start phase, and then switch over to small custom models once there is sufficient data. However, when distribution shifts are
+encountered, it is essential to fall back on LLMs while the custom models adapts to the distribution shift. We present an empirical study of such switching behaviors on 3 common real-world tasks like classification, regression, and forecasting
+across different data modalities like images, text, and time series and show how they can add value from the perspective of both cost and performance.
+
+[Download paper here]()
