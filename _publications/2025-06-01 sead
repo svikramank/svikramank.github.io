@@ -1,0 +1,19 @@
+---
+title: "SEAD: Unsupervised ensemble of streaming anomaly detectors"
+collection: publications
+permalink: /publication/2025-06-01 sead
+venue: 'International Conference on Machine Learning (ICML) 2025.'
+---
+
+_Saumya Shah, Abishek Sankararaman, Murali Narayanaswamy, **Vikramank Singh**_
+
+Can we efficiently choose the best Anomaly Detection (AD) algorithm for a data-stream without requiring anomaly labels? Streaming anomaly detection 
+is hard. SOTA AD algorithms are sensitive to their hyper-parameters and no single method works well on all datasets. 
+The best algorithm/hyper-parameter combination for a given data-stream can change over time with data drift. ‘What is an anomaly?’ is often 
+application, context and dataset dependent. We propose SEAD (Streaming Ensemble of Anomaly Detectors), the first model selection algorithm for 
+streaming, unsupervised AD. All prior AD model selection algorithms are either supervised, or only work in the offline setting when all data from 
+the test set is available upfront. We show that SEAD is (i) unsupervised, i.e., requires no true anomaly labels, (ii) efficiently implementable in 
+a streaming setting, (iii) agnostic to the choice of the base algorithms among which it chooses from, and (iv) adaptive to non-stationarity in the 
+data-stream. Experiments on 14 non-trivial public datasets and an internal dataset corroborate our claims.
+
+[Download paper here](https://assets.amazon.science/30/d3/dbf422844d028880a6b76e2c96e3/sead-unsupervised-ensemble-of-streaming-anomaly-detectors.pdf)
